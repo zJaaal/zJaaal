@@ -1,6 +1,6 @@
 # About
 - 📫 Reach me on Telegram @OutOfChronologicalOrder or [Fiverr](https://www.fiverr.com/justjal)
-- 💻 Job Offers only through Fiverr or Gmail ()
+- 💻 Job Offers only through Fiverr or Gmail
 # I'm currently Learning...
  - In .NET 5
    - Blazor Framework 
