@@ -1,5 +1,5 @@
 # Welcome to my profile! 🌠
-- 📫 Reach me on Telegram @OutOfChronologicalOrder or [Fiverr](https://www.fiverr.com/justjal)
+- 📫 Reach me on [Telegram](https://t.me/OutOfChronologicalOrder) or [Fiverr](https://www.fiverr.com/justjal)
 - 💻 Job Offers only through Fiverr or Gmail
 - 🏃‍♂️ Always learning and developing new skills!
 - 🎧 Always listening to music too. I don't like Coffee but I have music!
