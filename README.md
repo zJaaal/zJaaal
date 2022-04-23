@@ -12,7 +12,7 @@
    - HTML 
    - CSS
    - TypeScript / JavaScript
-   - Angular 12
+ - Coming Soon
    - React
 # My current stats 📊
 [![JustJal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustJal&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
