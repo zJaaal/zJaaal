@@ -6,11 +6,11 @@ Backend Developer and Future FullStack
 
 I've been into coding since 2020. I'm a technology enthusiast and a lifetime learner. I really love to jump into learn new things and also I'm a fast learner.
 
-* 🌍  I'm based in Buenos Aires, Argentina
+* 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [jalinson5@gmail.com](mailto:jalinson5@gmail.com )
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Bots of any kind, Windows Based programs and APIs
-* ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee
+* 🧠  I'm learning React.js and JavaScript.
+* 🤝  I'm open to collaborating on bots of any kind, Windows based programs and APIs.
+* ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
 
 <a href="https://www.github.com/JustJal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JustJal?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
