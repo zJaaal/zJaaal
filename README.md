@@ -4,8 +4,7 @@ Hi 👋 My name is Jalinson Diaz
 Backend Developer and Future FullStack
 --------------------------------------
 
-I've been into coding since 2020. I'm a technology enthusiast and a lifetime learner. I really love to jump into learn new things and also I'm a fast learner.
-
+I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner. I love to learn new things and I also learn fast.
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [jalinson5@gmail.com](mailto:jalinson5@gmail.com )
 * 🧠  I'm learning React.js and JavaScript.
