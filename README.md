@@ -6,13 +6,13 @@ Backend Developer and Future FullStack
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner. I love to learn new things and I also learn fast.
 * 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [jalinson5@gmail.com](mailto:jalinson5@gmail.com )
+* ✉️  You can contact me at [zJalDeveloper@gmail.com](mailto:zJalDeveloper@gmail.com )
 * 🧠  I'm learning React.js and JavaScript.
 * 🤝  I'm open to collaborating on bots of any kind, Windows based programs and APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
 
 <a href="https://www.github.com/JustJal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JustJal?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
+src="https://img.shields.io/github/followers/zJaaal?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -31,16 +31,16 @@ src="https://img.shields.io/github/followers/JustJal?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JustJal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/JustJal03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/zJaaal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/JustJal03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JustJal"><img src="https://github-readme-stats.vercel.app/api?username=JustJal&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="JustJal's GitHub stats" /></a>
+<a href="http://www.github.com/zJaaal"><img src="https://github-readme-stats.vercel.app/api?username=zJaaal&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="JustJal's GitHub stats" /></a>
 
-<a href="http://www.github.com/JustJal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JustJal&stroke=3382ed&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<a href="http://www.github.com/zJaaal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zJaaal&stroke=3382ed&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/JustJal"><img src="https://activity-graph.herokuapp.com/graph?username=JustJal&bg_color=0f172a&color=3382ed&line=a855f7&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/zJaaal"><img src="https://activity-graph.herokuapp.com/graph?username=zJaaal&bg_color=0f172a&color=3382ed&line=a855f7&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/JustJal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustJal&langs_count=10&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/zJaaal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zJaaal&langs_count=10&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
