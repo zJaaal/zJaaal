@@ -6,7 +6,7 @@ Backend Developer and Future FullStack
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner. I love to learn new things and I also learn fast.
 * 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [zJalDeveloper@gmail.com](mailto:zJalDeveloper@gmail.com )
+* ✉️  You can contact me at [zJaaalDev@gmail.com](mailto:zJaaalDev@gmail.com )
 * 🧠  I'm learning React.js and JavaScript.
 * 🤝  I'm open to collaborating on bots of any kind, Windows based programs and APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
