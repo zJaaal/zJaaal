@@ -1,4 +1,6 @@
-Hi 👋 My name is Jalinson Diaz
+Hi 👋 My name is Jalinson Diaz <a href="" target="_blank" rel="noreferrer">
+<img src="https://www.codewars.com/users/zJaaal/badges/small"/>
+</a>
 ==============================
 
 Backend Developer and Future FullStack
