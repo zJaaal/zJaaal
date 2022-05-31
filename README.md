@@ -10,7 +10,7 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 * 🌍  I'm based in Buenos Aires, Argentina.
 * ✉️  You can contact me at [zJaaalDev@gmail.com](mailto:zJaaalDev@gmail.com )
 * 🧠  I'm learning React.js and JavaScript.
-* 🤝  I'm open to collaborating on bots of any kind, Windows based programs and APIs.
+* 🤝  I'm open to collaborating on bots of any kind, Windows based programs, Front-end Projects and APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
 
 <a href="https://www.github.com/JustJal" target="_blank" rel="noreferrer"><img
