@@ -2,8 +2,7 @@ Hi 👋 My name is Jalinson Diaz <a href="" target="_blank" rel="noreferrer">
 <img src="https://www.codewars.com/users/zJaaal/badges/small"/>
 </a>
 ==============================
-
-Backend Developer and Future FullStack
+Frontend Developer and Future FullStack
 --------------------------------------
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner. I love to learn new things and I also learn fast.
