@@ -36,7 +36,7 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 ### Testing Skills
 
 <p><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
- <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src=" https://vitest.dev/logo.svg" alt="mocha" width="40" height="40"/> </a>
+ <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/> </a>
 
 </p>
 
