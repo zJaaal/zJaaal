@@ -10,9 +10,6 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 * 🤝  I'm open to collaborating Front-end Projects and Back-end APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
 
-### Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zjaaal&theme=onedark" alt="zjaaal" /></a> </p>
-
 ### Frontend Skills
 
 <p align="left">
