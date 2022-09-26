@@ -1,6 +1,6 @@
 Hi 👋 My name is Jalinson Diaz
 ==============================
-Frontend Developer and Future Fullstack
+Fullstack Developer
 --------------------------------------
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner.
