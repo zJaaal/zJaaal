@@ -9,6 +9,7 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 * 🧠  I'm currently learning Clean Architectures and Design Patterns.
 * 🤝  I'm open to collaborating on Front-end Projects and Back-end APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
+<img src="https://komarev.com/ghpvc/?username=zJaaal&color=blueviolet" alt="watching_count" />
 
 ### Frontend Skills
 
@@ -51,7 +52,7 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 <p align="left">
 
 <a href="https://www.codewars.com/users/zJaaal">
-<img src="https://github.r2v.ch/codewars?user=zJaaal&stroke=%23e0337f&top_languages=true"/>
+<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=zJaaal&card&colormode=dark_mode" alt="CodeWars Stats" />
 </a>
 </p>
 
