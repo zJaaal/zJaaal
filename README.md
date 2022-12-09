@@ -51,11 +51,9 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 <p align="left">
 
 <a href="https://www.codewars.com/users/zJaaal">
-<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=zJaaal&card&colormode=dark_mode" alt="CodeWars Stats" />
+<img src="https://www.codewars.com/users/zJaaal/badges/large" alt="CodeWars Stats" />
 </a>
 </p>
-
-
 
 <b>My GitHub Stats</b>
 
