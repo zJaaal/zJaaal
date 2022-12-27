@@ -4,9 +4,10 @@ Fullstack Developer
 --------------------------------------
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner.
-* 🌍  I'm based in Buenos Aires, Argentina.
-* ✉️  You can contact me at [zJaaalDev@gmail.com](mailto:zJaaalDev@gmail.com )
-* 🧠  I'm currently learning Clean Architectures and Design Patterns.
+* 🌍  I'm from Venezuela. Currently living in Buenos Aires, Argentina.
+* ✉️  You can contact me at [zJaaalDev@gmail.com](mailto:zJaaalDev@gmail.com)
+* 📌  Connect with me on [LinkedIn](https://www.linkedin.com/in/jalinson-diaz/)
+* 🧠  I'm currently learning Rust.
 * 🤝  I'm open to collaborating on Front-end Projects and Back-end APIs.
 * ⚡  I don't like coffee like everyone else. But I can say that music it's my coffee.
 
