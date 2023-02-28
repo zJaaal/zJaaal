@@ -1,6 +1,6 @@
 Hi 👋 My name is Jalinson Diaz
 ==============================
-Fullstack Developer
+Frontend Developer
 --------------------------------------
 
 I have been engaged in coding since 2020. I am a technology enthusiast and a lifelong learner.
@@ -21,6 +21,7 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+ <a href="https://angular.io/guide/what-is-angular" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="36" height="36" alt="Angular" /></a>
 </p>
 
 ### Backend Skills
