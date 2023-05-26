@@ -1,5 +1,3 @@
-Hi 👋 My name is Jalinson Diaz
-==============================
 Frontend Developer
 --------------------------------------
 
