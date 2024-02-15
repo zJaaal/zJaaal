@@ -19,29 +19,6 @@ I have been engaged in coding since 2020. I am a technology enthusiast and a lif
  <a href="https://angular.io/guide/what-is-angular" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/shield-large.svg" width="36" height="36" alt="Angular" /></a>
 </p>
 
-### Backend Skills
-
-<p>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-### Testing Skills
-
-<p><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
- <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/> </a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing library" width="40" height="40"/> </a>
-</p>
-
-### Other Technologies
-
-<p>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://google.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg" width="36" height="36" alt="Google"></a>
-</p>
-
 ### Stats
 <b>My CodeWars Stats<b>
 
