@@ -14,4 +14,10 @@ I'm from Venezuela and live in Buenos Aires. I left electronics engineering to l
 
 [zjaaal.dev](https://zjaaal.dev) · [LinkedIn](https://www.linkedin.com/in/jalinson-diaz/) · [zJaaalDev@gmail.com](mailto:zJaaalDev@gmail.com)
 
+### CodeWars
+
+<a href="https://www.codewars.com/users/zJaaal">
+<img src="https://www.codewars.com/users/zJaaal/badges/large" alt="zJaaal's CodeWars stats" />
+</a>
+
 > Only those willing to fail are the ones who will succeed.
